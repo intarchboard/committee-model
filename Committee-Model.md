@@ -30,11 +30,14 @@ They are minuted and can contain both public portions and executive sessions.
 In general, votes are held during full board meetings. When e-votes occur outside full
 board meetings, their results are minuted at full board meetings.
 
-Reports from liaisons are received and minuted at full board meetings. 
+Reports from liaisons are received and minuted at full board meetings.
 
 IAB members provide reports based on their delegated responsibilities ahead of full
-board meetings. Any group decisions that need to be made based on these activities
-are handled in the full board meetings.
+board meetings.
+
+Agenda items for discussion or decision at full board meetings should have pre-read materials
+(e.g., background material, rationale, supporting information, alternatives considered)
+available at least a week in advance, and preferably longer.
 
 During the full board meeting, the delegated responsibilities of board members in
 the upcoming cycle are confirmed.
