@@ -67,7 +67,8 @@ An example schedule would be:
 Virtual full board meetings may be convened outside of the regular schedule if the IAB chair
 determines they are necessary. These should only be convened for extraordinary cases in
 response to time-sensitive deadlines, such as voting on how to respond to an appeal or a sudden
-vacancy, etc. In such cases, there must be a clear agenda, and some of the IAB members should
+vacancy, etc. In such cases, the meetings must be scheduled at least a week in advance (longer
+is preferable), there must be a clear agenda, and some of the IAB members should
 have prepared written proposals or reports to the IAB beforehand. In general, responding to
 time-sensitive issues should be primarily handled over email or messaging.
 
@@ -97,8 +98,9 @@ IAB members. IAB members can request secretariat participation to aid in schedul
 minutes, and general assistance. 
 
 Each area of responsibility is expected to provide written minutes or reports back to the
-whole IAB, at least one week before the full board meeting. These can be sent over email
-or Slack. 
+whole IAB over email, at least one week before the full board meeting. These reports should
+contain a list of IAB members who contributed to the activity (such meeting attendance or
+providing technical contributions).
 
 Each area of responsibility is encouraged to have a dedicated Slack channel or email group
 for discussion.
@@ -106,7 +108,8 @@ for discussion.
 Between meetings, each IAB member should be assigned to at least one delegated responsibility.
 There is no strict limit to the number of responsibilities an IAB member can take on, but
 distributing the responsibilities is encouraged. The list below is not exhaustive, but represents
-the most common activities.
+the most common activities. Not all of the responsibilities below are expected to be covered in
+every cycle.
 
 ### Technical Responsibilities
 
