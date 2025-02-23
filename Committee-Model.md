@@ -55,11 +55,11 @@ all topics or decision-making can be completed.
 
 An example schedule would be:
 
-* March IETF meeting (in person)
-* May retreat (in person)
-* July IETF meeting (in person)
+* March IETF meeting (in-person)
+* May retreat (in-person)
+* July IETF meeting (in-person)
 * September interim (virtual)
-* November IETF meeting (in person)
+* November IETF meeting (in-person)
 * January interim (virtual)
 
 ### Extraordinary Meetings
