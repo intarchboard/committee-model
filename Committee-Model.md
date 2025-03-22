@@ -47,9 +47,9 @@ the upcoming cycle are confirmed.
 Full board meetings should be scheduled in advance, at the start of a yearly cycle for
 the IAB (such as at or before the March IETF meeting).
 
-There should be at least 6 full board meetings per year, with around 2 months between
+There should be at least 6 full board meetings per year, with no more than 2 months between
 each meeting. The exact timing should be chosen to best suit the needs of any appointments
-that the IAB must vote on. 
+that the IAB must vote on.
 
 In-person meetings during IETF weeks and retreats count as full board meetings.
 
@@ -59,11 +59,17 @@ all topics or decision-making can be completed.
 An example schedule would be:
 
 * March IETF meeting (in-person)
-* May retreat (in-person)
+* April interim (virtual)
+* May reserved interim (virtual)
+* June retreat (in-person)
 * July IETF meeting (in-person)
+* August reserved interim (virtual)
 * September interim (virtual)
+* October reserved interim (virtual)
 * November IETF meeting (in-person)
-* January interim (virtual)
+* December interim (virtual)
+* January reserved interim (virtual)
+* February interim (virtual)
 
 ### Extraordinary Meetings
 
